@@ -21,7 +21,7 @@ The "Tour of Heroes" project is a fundamental example highlighted in the officia
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/TourOfHeroes.git
+git clone https://github.com/Aaxhirrr/Tour-of-my-Heroes.git
 ```
 
 2. Navigate to the project directory:
